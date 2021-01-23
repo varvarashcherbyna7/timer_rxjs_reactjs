@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timer_rxjs_reactjs/static/css/main.423eb4a7.chunk.css",
+    "main.js": "/timer_rxjs_reactjs/static/js/main.38d7b0d2.chunk.js",
+    "main.js.map": "/timer_rxjs_reactjs/static/js/main.38d7b0d2.chunk.js.map",
+    "runtime-main.js": "/timer_rxjs_reactjs/static/js/runtime-main.ee7e3ddb.js",
+    "runtime-main.js.map": "/timer_rxjs_reactjs/static/js/runtime-main.ee7e3ddb.js.map",
+    "static/js/2.e28a2c96.chunk.js": "/timer_rxjs_reactjs/static/js/2.e28a2c96.chunk.js",
+    "static/js/2.e28a2c96.chunk.js.map": "/timer_rxjs_reactjs/static/js/2.e28a2c96.chunk.js.map",
+    "static/js/3.8c1c7c05.chunk.js": "/timer_rxjs_reactjs/static/js/3.8c1c7c05.chunk.js",
+    "static/js/3.8c1c7c05.chunk.js.map": "/timer_rxjs_reactjs/static/js/3.8c1c7c05.chunk.js.map",
+    "index.html": "/timer_rxjs_reactjs/index.html",
+    "static/css/main.423eb4a7.chunk.css.map": "/timer_rxjs_reactjs/static/css/main.423eb4a7.chunk.css.map",
+    "static/js/2.e28a2c96.chunk.js.LICENSE.txt": "/timer_rxjs_reactjs/static/js/2.e28a2c96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee7e3ddb.js",
+    "static/js/2.e28a2c96.chunk.js",
+    "static/css/main.423eb4a7.chunk.css",
+    "static/js/main.38d7b0d2.chunk.js"
+  ]
+}
