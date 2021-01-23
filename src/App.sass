@@ -1,0 +1,64 @@
+.container
+  width: 58vw
+  height: 15vh
+  display: flex
+  flex-direction: column
+  justify-content: space-around
+  margin: 5rem auto
+
+  .time
+    margin: 2rem auto
+    letter-spacing: 0.5rem
+    font-size: 2em
+
+  .buttonsContainer
+    display: grid
+    grid-template-columns: repeat(1, 1fr)
+    gap: 1rem
+
+    .btn
+      outline: none
+      text-align: center
+      padding: 0.5rem 2rem
+      border-radius: 1rem
+      text-transform: uppercase
+      cursor: pointer
+      transition: all 0.5s linear
+
+    .startBtn
+      border: 1px solid green
+      color: green
+
+      &:hover
+        background: green
+        color: #fff
+
+    .waitBtn
+      border: 1px solid darkorange
+      color: darkorange
+
+      &:hover
+        background: darkorange
+        color: #fff
+
+    .stopBtn
+      border: 1px solid darkred
+      color: darkred
+
+      &:hover
+        background: darkred
+        color: #fff
+
+    .resetBtn
+      border: 1px solid darkblue
+      color: darkblue
+
+      &:hover
+        background: darkblue
+        color: #fff
+
+@media screen and (min-width: 400px)
+  .container
+    .buttonsContainer
+      grid-template-columns: repeat(4, 1fr)
+
